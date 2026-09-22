@@ -12,16 +12,17 @@ I design practical, human-centered learning experiences and systems that help ed
 
 ## Interactive project portfolio
 
-| Project | Focus | Availability |
-| --- | --- | --- |
-| [Faculty Feedback Lab](https://github.com/HighImpact360/faculty-feedback-lab) | Trust-building faculty feedback conversations | Private during review |
-| [AI Learning Design Compass](https://github.com/HighImpact360/ai-learning-design-compass) | Learning-centered, responsible AI activity design | Private during review |
-| [Student Momentum Lab](https://github.com/HighImpact360/student-momentum-lab) | Humane, systems-aware learner support planning | Private during review |
-| [Professional Portfolio](https://github.com/HighImpact360/naketa-jones-portfolio) | Academic innovation, faculty development, and responsible AI | Private during review |
+| Project | Experience it live | Explore the source | Focus |
+|---|---|---|---|
+| **Faculty Feedback Lab** | [Open the simulation](https://highimpact360.github.io/faculty-feedback-lab/) | [GitHub repository](https://github.com/HighImpact360/faculty-feedback-lab) | Trust-building faculty feedback conversations |
+| **AI Learning Design Compass** | [Open the simulation](https://highimpact360.github.io/ai-learning-design-compass/) | [GitHub repository](https://github.com/HighImpact360/ai-learning-design-compass) | Learning-centered, responsible AI activity design |
+| **Student Momentum Lab** | [Open the simulation](https://highimpact360.github.io/student-momentum-lab/) | [GitHub repository](https://github.com/HighImpact360/student-momentum-lab) | Humane, systems-aware learner support planning |
+
+Each simulation uses fictional scenarios only and does not collect user, student, employee, or institutional data.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/naketajones/)
 - [GitHub](https://github.com/HighImpact360)
 
-This GitHub space is a curated portfolio of education-focused work. Repositories begin private while source materials and presentation are reviewed for sharing.
+> This GitHub space is a curated portfolio of education-focused work, grounded in practical design, responsible technology, and human-centered learning.
