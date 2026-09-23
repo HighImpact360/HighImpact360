@@ -19,6 +19,7 @@ I design practical, human-centered learning experiences and systems that help ed
 
 | Project | Experience it live | Explore the source | Focus |
 |---|---|---|---|
+| **Professional Development Design Studio** | [Build a pathway](https://highimpact360.github.io/professional-development-design-studio/) | [GitHub repository](https://github.com/HighImpact360/professional-development-design-studio) | Evidence-informed professional learning design and a LinkedIn-ready completion badge |
 | **Faculty Feedback Lab** | [Open the simulation](https://highimpact360.github.io/faculty-feedback-lab/) | [GitHub repository](https://github.com/HighImpact360/faculty-feedback-lab) | Trust-building faculty feedback conversations |
 | **AI Learning Design Compass** | [Open the simulation](https://highimpact360.github.io/ai-learning-design-compass/) | [GitHub repository](https://github.com/HighImpact360/ai-learning-design-compass) | Learning-centered, responsible AI activity design |
 | **Student Momentum Lab** | [Open the simulation](https://highimpact360.github.io/student-momentum-lab/) | [GitHub repository](https://github.com/HighImpact360/student-momentum-lab) | Humane, systems-aware learner support planning |
